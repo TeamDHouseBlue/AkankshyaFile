@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,300&display=swap');
+* {
+    font-family: 'Work Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+  background-image: url(https://images.unsplash.com/photo-1517732306149-e8f829eb588a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+  header{
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    font-stretch: extra-condensed;
+  }
+
+  h1{
+    background: white;
+  }
+
+  h4{
+    background: white;
+  }
+
+  .container{
+    background: rgba(255, 255, 255, 0.836);
+    width: 50%;
+    padding: 150px;
+    margin: 20px auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+  background: rgba(252, 230, 230, 0);
+
+}
+
+p{
+  background: rgba(252, 230, 230, 0);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: large;
+}
+
+button{
+  background-image: none;
+  background-color: rgb(156, 241, 58);
+  width: 100px;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border: 1px solid rgb(156, 241, 58);
+  font-size: 30px;
+}
+
+.video{
+  background: rgba(252, 230, 230, 0);
+}
